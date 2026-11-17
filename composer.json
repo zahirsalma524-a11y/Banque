@@ -1,0 +1,15 @@
+{
+    "name": "hp/banque",
+    "autoload": {
+        "psr-4": {
+            "Banque\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zahir salma",
+            "email": "zahirsalma524@gmail.com"
+        }
+    ],
+    "require": {}
+}
